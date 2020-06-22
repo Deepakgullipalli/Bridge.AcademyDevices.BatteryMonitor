@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\UsageService.BusinessContract\UsageService.BusinessContract.csproj" />
+    <ProjectReference Include="..\UsageService.Common\UsageService.Entities.csproj" />
+    <ProjectReference Include="..\UsageService.Entities\UsageService.Entities.csproj" />
+  </ItemGroup>
+
+</Project>
