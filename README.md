@@ -5,7 +5,8 @@
 * Solution is developed in Asp.Net Core framework.
 * Swashbuckle Swagger is been used for API documentation.
 * Current projects included are the Main Service API, Business Logic where core compuation should reside. Contract of Buisness Logic. Unittests of the same.
-* Solution isn't complete FYI. I have followed TDD right from the begining, spent about 8 hours, did what i could do. I felt and was tempted to fallback to traditional way of approaching problem to completing it.It was extremely hard,and i Chose not to do it. I took it as a challenge to implement what i can, by following Kent Buck "Don't write a product without a failing test".
+* Solution isn't complete FYI. I have followed TDD right from the begining, spent about 8 hours, did what i could do. I felt and was tempted to fallback to traditional way of approaching problem to completing it.It was extremely hard,and i Chose not to do it.
+* I took it as a challenge to implement what i can, by following Kent Beck "Don't write a production code, without a failing test".
 * Started with small increments and a bigger one came at the end.
 
 
